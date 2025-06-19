@@ -1,11 +1,5 @@
 # Test
 
-This repository contains a small demo site for **JaylinEx**, a web and graphic design business. The pages include:
+This repository contains a demo site for **JaylinEx**, a web and graphic design business.
 
-- `index.html` – landing page
-- `home.html`
-- `about.html`
-- `services.html`
-- `contact.html`
-
-All pages share a simple Apple-inspired design provided by `style.css`.
+The landing page (`index.html`) now follows the StoryBrand framework with sections for a hero, problem, guide, plan and more. Styles are provided in `style.css` with a simple responsive layout. Additional legacy pages (`home.html`, `about.html`, `services.html`, `contact.html`) remain for reference.
